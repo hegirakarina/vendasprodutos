@@ -1,4 +1,4 @@
-# Big Game Survey 
+# Vendas de Produtos 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/hegirakarina/vendasprodutos/blob/main/LICENSE) 
 
 # Sobre o projeto
