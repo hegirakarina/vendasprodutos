@@ -19,11 +19,14 @@ A aplicação consiste em facilitar as atividades em vendas, automatizando o má
 # Tecnologias utilizadas
 ## Linguegem
 - Delphi 2009
-## Delphi Componente (Free)
+## Delphi Componente
 - HTML / CSS / JS / TypeScript
 - ReactJS
 ## Banco de Dados
 - Tabelas Temporarias (Dados não são gravados em uma tabela fisíca)
+
+## Requisitos 
+- Microsoft Windows
 
 # Como executar o projeto
 
@@ -36,23 +39,6 @@ cd backend
 
 # executar o projeto
 ./mvnw spring-boot:run
-```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
 ```
 
 # Autor
