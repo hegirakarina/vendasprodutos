@@ -15,7 +15,7 @@ A aplicação consiste em facilitar as atividades em vendas, automatizando o má
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/hegirakarina/vendasprodutos/tree/main/VENDAS/ASSETS/modelo_conceitual.png)
+![Modelo Conceitual](https://github.com/hegirakarina/vendasprodutos/blob/main/VENDAS/ASSETS/modelo_conceitual.png)
 
 # Tecnologias utilizadas
 ## Linguagem
