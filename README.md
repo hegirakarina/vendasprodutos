@@ -22,9 +22,9 @@ A aplicação consiste em facilitar as atividades em vendas, automatizando o má
 - Iniciado com Delphi 2009
 - Finalizado com Delphi 10.4
 ## Componentes Utilizados
-- Componentes nativos do Delphi
+- Componentes nativos do Delphi.
 ## Banco de Dados
-- Tabelas Temporarias (Dados não são gravados em uma tabela fisíca)
+- Tabelas Temporarias (Dados não fora persistidos em uma base de dados fisíca).
 ## Requisitos 
 - Microsoft Windows
 
