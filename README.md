@@ -18,10 +18,10 @@ A aplicação consiste em facilitar as atividades em vendas, automatizando o má
 
 # Tecnologias utilizadas
 ## Linguegem
-- Delphi 2009
+- Iniciado com Delphi 2009
+- Finalizado com Delphi 10.4
 ## Delphi Componente
-- HTML / CSS / JS / TypeScript
-- ReactJS
+- Componentes nativos do Delphi
 ## Banco de Dados
 - Tabelas Temporarias (Dados não são gravados em uma tabela fisíca)
 
@@ -30,16 +30,6 @@ A aplicação consiste em facilitar as atividades em vendas, automatizando o má
 
 # Como executar o projeto
 
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
 
 # Autor
 
