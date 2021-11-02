@@ -24,7 +24,7 @@ A aplicação consiste em facilitar as atividades em vendas, automatizando o má
 ## Componentes Utilizados
 - Componentes nativos do Delphi.
 ## Banco de Dados
-- Tabelas Temporarias (Dados não fora persistidos em uma base de dados fisíca).
+- Tabelas Temporarias (Dados não foram persistidos em uma base de dados fisíca).
 ## Requisitos 
 - Microsoft Windows
 
