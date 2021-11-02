@@ -24,15 +24,21 @@ A aplicação consiste em facilitar as atividades em vendas, automatizando o má
 - Componentes nativos do Delphi
 ## Banco de Dados
 - Tabelas Temporarias (Dados não são gravados em uma tabela fisíca)
-
 ## Requisitos 
 - Microsoft Windows
 
 # Como executar o projeto
+- Faça o Download da pasta Instalação.
+- Salve na máquina.
+- Para o perfeito funcionamento, é necessario que dentro do diretório contenha os arquivos VENDAS.EXE E PRODUTOS.TXT.
+- O arquivo PRODUTOS.TXT deve permanecer com essa descrição.
 
+# Observação
+- Caso ocorra alguma restrição ao abrir o sistema, execulte-o como administrador.
+- O codigo de barras contido no sistema é meramente ilustrativo, não foi utilizado nenhum padrão.
+- Como os dados não persistem em uma tabela fisica, existem algunmas limitação para o desenvolvimento mestre-detalhe.
 
 # Autor
-
 Hégira Karina Demitrov Vieira Gomes
 
 https://www.linkedin.com/in/hegira-karina-demitrov-vieira-gomes-9a8b08b8/
