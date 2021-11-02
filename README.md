@@ -37,7 +37,7 @@ A aplicação consiste em facilitar as atividades em vendas, automatizando o má
 # Observação
 - Caso ocorra alguma restrição ao abrir o sistema, execulte-o como administrador.
 - O codigo de barras contido no sistema é meramente ilustrativo, não foi utilizado nenhum padrão.
-- Como os dados não persistem em uma tabela fisica, existem algunmas limitação para o desenvolvimento mestre-detalhe.
+- Como os dados não persistem em uma tabela fisica, houve algumas limitações para o desenvolvimento mestre-detalhe.
 
 # Autor
 Hégira Karina Demitrov Vieira Gomes
