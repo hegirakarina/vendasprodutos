@@ -17,7 +17,7 @@ A aplicação consiste em facilitar as atividades em vendas, automatizando o má
 ![Modelo Conceitual](https://github.com/hegirakarina/vendasprodutos/blob/main/ASSETS/modelo_conceitual.png)
 
 # Tecnologias utilizadas
-## Linguegem
+## Linguagem
 - Iniciado com Delphi 2009
 - Finalizado com Delphi 10.4
 ## Delphi Componente
@@ -40,7 +40,7 @@ A aplicação consiste em facilitar as atividades em vendas, automatizando o má
 
 # Autor
 Hégira Karina Demitrov Vieira Gomes
-
+- Linkedin
 https://www.linkedin.com/in/hegira-karina-demitrov-vieira-gomes-9a8b08b8/
 
 
