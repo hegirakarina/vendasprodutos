@@ -10,7 +10,7 @@ No projeto foi utilizado teste unitário para otimizar o processo de identifica�
 A aplicação consiste em facilitar as atividades em vendas, automatizando o máximo de processos possíveis.
 
 ## Layout Desktop
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![Tela Principal](https://github.com/hegirakarina/vendasprodutos/blob/main/VENDAS/ASSETS/tela_principal.png) 
 
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
