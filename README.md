@@ -36,7 +36,7 @@ A aplicação consiste em facilitar as atividades em vendas, automatizando o má
 # Como utilizar o sistema.
 - Segue manual no formato PDF na pasta intalação com passo a passo da utilização.
 
-# Observação
+# Observações
 - Caso ocorra alguma restrição ao abrir o sistema, execulte-o como administrador.
 - O codigo de barras contido no sistema é meramente ilustrativo, não foi utilizado nenhum padrão.
 - Como os dados não persistem em uma tabela fisica, houve algumas limitações para o desenvolvimento mestre-detalhe.
