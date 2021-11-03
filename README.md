@@ -34,6 +34,9 @@ A aplicação consiste em facilitar as atividades em vendas, automatizando o má
 - Para o perfeito funcionamento, é necessario que dentro do diretório contenha os arquivos VENDAS.EXE E PRODUTOS.TXT.
 - O arquivo PRODUTOS.TXT deve permanecer com essa descrição.
 
+# Como utilizar o sistema.
+- Segue manual no formato PDF na pasta intalação com passo a passo da utilização.
+
 # Observação
 - Caso ocorra alguma restrição ao abrir o sistema, execulte-o como administrador.
 - O codigo de barras contido no sistema é meramente ilustrativo, não foi utilizado nenhum padrão.
@@ -41,7 +44,7 @@ A aplicação consiste em facilitar as atividades em vendas, automatizando o má
 
 # Autor
 Hégira Karina Demitrov Vieira Gomes
-- Linkedin
+- Linkedin: 
 https://www.linkedin.com/in/hegira-karina-demitrov-vieira-gomes-9a8b08b8/
 
 
