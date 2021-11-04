@@ -12,10 +12,6 @@ A aplicação consiste em facilitar as atividades em vendas, automatizando o má
 ## Layout Desktop
 ![Tela Principal](https://github.com/hegirakarina/vendasprodutos/blob/main/ASSETS/tela_principal.png) 
 
-
-## Movimentação
-![Movimentação](https://github.com/hegirakarina/vendasprodutos/blob/main/ASSETS/tela_movimentacao.png)
-
 ## Modelo Conceitual
 ![Modelo_Coceitual](https://github.com/hegirakarina/vendasprodutos/blob/main/ASSETS/modelo_conceitual.png)
 
