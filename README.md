@@ -17,6 +17,7 @@ A aplicação consiste em facilitar as atividades em vendas, automatizando o má
 
 # Tecnologias utilizadas
 ## Linguagem
+- Pascal
 - Iniciado com Delphi 2009
 - Finalizado com Delphi 10.4
 ## Componentes Utilizados
@@ -26,7 +27,7 @@ A aplicação consiste em facilitar as atividades em vendas, automatizando o má
 ## Requisitos 
 - Microsoft Windows
 
-# Como executar o projeto
+# Como instalar o projeto
 - Faça o Download da pasta Instalação.
 - Salve na máquina.
 - Para o perfeito funcionamento, é necessario que dentro do diretório contenha os arquivos VENDAS.EXE E PRODUTOS.TXT.
