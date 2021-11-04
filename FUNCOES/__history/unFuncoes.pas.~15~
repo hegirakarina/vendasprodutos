@@ -1,0 +1,66 @@
+
+{
+ TITULO: FUNÇÕES GLOBAIS
+ DESCRIÇÃO: Projeto vendas de produtos, tabelas temporarias.
+ DATA: 04/10/2021
+ VERSÃO: 1.0
+ AUTOR: Hégira Karina - Analista de Sistema
+ EMAIL: hegira.k@hotmail.com
+ OBS.: Projeto disponibilizado no GitHub
+}
+
+
+unit UnFuncoes;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, ExtCtrls, Printers;
+
+
+Procedure GerarCodigo(Codigo: String; Canvas : TCanvas);
+Function TotalItens(const AValor1, AValor2: Currency): Currency;
+
+
+implementation
+
+
+Procedure GerarCodigo(Codigo: String; Canvas : TCanvas);
+const
+digitos : array['0'..'9'] of string[5]= ('00110', '10001', '01001', '11000',
+'00101', '10100', '01100', '00011', '10010', '01010');
+var s : string;
+i, j, x, t : Integer;
+begin
+    s := '0000';
+    for i := 1 to length(codigo) div 2 do
+      for j := 1 to 5 do
+        s := s + Copy(Digitos[codigo[i * 2 - 1]], j, 1) + Copy(Digitos[codigo[i * 2]], j, 1);
+        s := s + '100';
+        x := 0;
+        Canvas.Brush.Color := clWhite;
+        Canvas.Pen.Color := clWhite;
+        Canvas.Rectangle(0,0, 2000, 79);
+        Canvas.Brush.Color := clBlack;
+        Canvas.Pen.Color := clBlack;
+        for i := 1 to length(s) do
+        begin
+          t := strToInt(s[i]) * 2 + 1;
+          if i mod 2 = 1 then
+          Canvas.Rectangle(x, 0, x + t, 79);
+          x := x + t;
+        end;
+end;
+
+Function CalcTotalItens(const Valor1, Valor2: Currency): Currency;
+begin
+  Result := AValor1 * AValor2;
+end;
+
+Function TotalItens(const AValor1, AValor2: Currency): Currency;
+begin
+  Result := AValor1 * AValor2;
+end;
+
+end.

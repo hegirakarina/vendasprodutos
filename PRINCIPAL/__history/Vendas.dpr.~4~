@@ -1,0 +1,17 @@
+program Vendas;
+
+uses
+  Forms,
+  UVenda in 'UVenda.pas' {FrmVenda},
+  unFuncoes in '..\FUNCOES\unFuncoes.pas',
+  UDataModulo in '..\DM\UDataModulo.pas' {DataModulo: TDataModule},
+  UPesquisa in '..\FORMS\UPesquisa.pas' {FrmPesquisa};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.Title := 'Vendas de Produtos';
+  Application.CreateForm(TFrmVenda, FrmVenda);
+  Application.Run;
+end.
