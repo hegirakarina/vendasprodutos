@@ -10,11 +10,14 @@ No projeto foi utilizado teste unitário para otimizar o processo de identifica�
 A aplicação consiste em facilitar as atividades em vendas, automatizando o máximo de processos possíveis.
 
 ## Layout Desktop
-![Tela Principal](https://github.com/hegirakarina/vendasprodutos/blob/main/VENDAS/ASSETS/tela_principal.png) 
+![Tela Principal](https://github.com/hegirakarina/vendasprodutos/blob/main/ASSETS/tela_principal.png) 
 
 
 ## Movimentação
-![Modelo Conceitual](https://github.com/hegirakarina/vendasprodutos/blob/main/VENDAS/ASSETS/tela_movimentacao.png)
+![Movimentação](https://github.com/hegirakarina/vendasprodutos/blob/main/ASSETS/tela_movimentacao.png)
+
+## Modelo Conceitual
+![Modelo_Coceitual](https://github.com/hegirakarina/vendasprodutos/blob/main/ASSETS/modelo_conceitual.png)
 
 # Tecnologias utilizadas
 ## Linguagem
