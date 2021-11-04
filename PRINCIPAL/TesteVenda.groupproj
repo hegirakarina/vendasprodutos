@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{89BBE207-DA11-43F6-B1CE-150F585FFCCC}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Vendas.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="TestUnit\VendasTests.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Vendas">
+        <MSBuild Projects="Vendas.dproj"/>
+    </Target>
+    <Target Name="Vendas:Clean">
+        <MSBuild Projects="Vendas.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Vendas:Make">
+        <MSBuild Projects="Vendas.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="VendasTests">
+        <MSBuild Projects="TestUnit\VendasTests.dproj"/>
+    </Target>
+    <Target Name="VendasTests:Clean">
+        <MSBuild Projects="TestUnit\VendasTests.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="VendasTests:Make">
+        <MSBuild Projects="TestUnit\VendasTests.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Vendas;VendasTests"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Vendas:Clean;VendasTests:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Vendas:Make;VendasTests:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
