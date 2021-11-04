@@ -34,7 +34,7 @@ A aplicação consiste em facilitar as atividades em vendas, automatizando o má
 - O arquivo PRODUTOS.TXT deve permanecer com essa descrição.
 
 # Como utilizar o sistema.
-- Segue manual no formato PDF na pasta intalação com passo a passo da utilização.
+- Segue manual no formato PDF na pasta instalação com passo a passo da utilização.
 
 # Observações
 - Caso ocorra alguma restrição ao abrir o sistema, execulte-o como administrador.
