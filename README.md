@@ -3,11 +3,9 @@
 
 # Sobre o projeto
 
-
 Projeto delphi para controle de vendas.
 
-No projeto foi utilizado teste unitário para otimizar o processo de identificação de erros.
-A aplicação consiste em facilitar as atividades em vendas, automatizando o máximo de processos possíveis.
+Projeto simples feito para demonstrar habilidades em Delphi, com teste unitário, a não persistencia no banco...
 
 ## Layout Desktop
 ![Tela Principal](https://github.com/hegirakarina/vendasprodutos/blob/main/ASSETS/tela_principal.png) 
@@ -41,8 +39,9 @@ A aplicação consiste em facilitar as atividades em vendas, automatizando o má
 - O codigo de barras contido no sistema é meramente ilustrativo, não foi utilizado nenhum padrão.
 - Como os dados não persistem em uma tabela fisica, houve algumas limitações para o desenvolvimento mestre-detalhe.
 
-# Autor
-Hégira Karina Demitrov Vieira Gomes
+# Sobre Autor
+Hégira Karina Demitrov Vieira Gomes.
+
 - Linkedin: 
 https://www.linkedin.com/in/hegira-karina-demitrov-vieira-gomes-9a8b08b8/
 
