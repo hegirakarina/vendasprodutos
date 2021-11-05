@@ -4,7 +4,6 @@
 # Sobre o projeto
 
 Projeto delphi para controle de vendas.
-
 Projeto simples feito para demonstrar habilidades em Delphi, com teste unitário, a não persistencia no banco...
 
 ## Layout Desktop
