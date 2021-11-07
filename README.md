@@ -43,6 +43,8 @@ Hégira Karina Demitrov Vieira Gomes.
 
 - Linkedin: 
 https://www.linkedin.com/in/hegira-karina-demitrov-vieira-gomes-9a8b08b8/
+- Facebook:
+https://www.facebook.com/profile.php?id=100000686063100
 
 
 
