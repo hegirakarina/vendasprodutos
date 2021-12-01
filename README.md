@@ -4,7 +4,7 @@
 # Sobre o projeto
 
 Projeto delphi para controle de vendas.
-Projeto simples feito para demonstrar habilidades em Delphi, com teste unitário, a não persistencia no banco...
+Projeto simples, feito para demonstrar habilidades em Delphi, com teste unitário, a não persistencia no banco...
 
 ## Layout Desktop
 ![Tela Principal](https://github.com/hegirakarina/vendasprodutos/blob/main/ASSETS/tela_principal.png) 
